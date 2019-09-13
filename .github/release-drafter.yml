@@ -18,3 +18,8 @@ template: |
   ## Changes
 
   $CHANGES
+
+  ## Versions
+  $NEXT_PATCH_VERSION
+  $NEXT_MINOR_VERSION
+  $NEXT_MAJOR_VERSION
